@@ -1,0 +1,7 @@
+*.bak
+*.orig
+*~
+*.swp
+.DS_Store
+Thumbs.db
+Gemfile.lock
